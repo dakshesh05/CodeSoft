@@ -39,7 +39,8 @@ Wind Speed: 5.7 km/h
 
 ## Screenshot
 
-![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/60f07b45-2f0a-403a-9c4e-cf5d11a9ca33)
+![image]![270149845-60f07b45-2f0a-403a-9c4e-cf5d11a9ca33](https://github.com/dakshesh05/CodeSoft/assets/91561740/796057aa-6799-4996-9742-29fe30df5285)
+
 
 
 
@@ -78,7 +79,8 @@ Generated Password: aB3$XyzPq9#1
 ```
 ## Screenshot 
 
-![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/2e1e7373-e061-4cd6-bf70-bd00b5cdfa45)
+![image]![270149853-2e1e7373-e061-4cd6-bf70-bd00b5cdfa45](https://github.com/dakshesh05/CodeSoft/assets/91561740/0b3c949f-2a01-4283-b5eb-4a269d7eda19)
+
 
 # 3- Simple Calculator
 
@@ -106,7 +108,8 @@ This is a basic calculator application built using the Tkinter library in Python
 
 ## Screenshot
 
-![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/b457bb5b-0bd1-4889-a9a3-05bc94e539c6)
+![image]![Screenshot 2024-04-08 190633](https://github.com/dakshesh05/CodeSoft/assets/91561740/f2c0ca02-d809-40ae-bbb0-bff97652c3ad)
+
 
 
 # To-Do List Application
