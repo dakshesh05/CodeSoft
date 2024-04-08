@@ -107,3 +107,29 @@ This is a basic calculator application built using the Tkinter library in Python
 ## Screenshot
 
 ![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/b457bb5b-0bd1-4889-a9a3-05bc94e539c6)
+
+
+# To-Do List Application
+
+This is a simple To-Do List application built using Python and Tkinter GUI library.
+
+## Features
+
+- Add tasks to your to-do list.
+- Delete tasks from the list when completed.
+- Saves tasks to a text file for persistence.
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Ensure you have Python installed.
+3. Install required dependencies using `pip install -r requirements.txt`.
+4. Run the application using `python todo.py`.
+5. Add tasks using the input box provided and press the "ADD" button.
+6. Delete tasks by selecting them from the list and pressing the "DELETE" button.
+
+## Screenshots
+
+[Insert screenshots here if available]
+
+
