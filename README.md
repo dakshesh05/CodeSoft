@@ -131,8 +131,6 @@ This is a simple To-Do List application built using Python and Tkinter GUI libra
 5. Add tasks using the input box provided and press the "ADD" button.
 6. Delete tasks by selecting them from the list and pressing the "DELETE" button.
 
-## Screenshots
 
-[Insert screenshots here if available]
 
 
